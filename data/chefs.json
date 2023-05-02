@@ -1,44 +1,57 @@
 [  
-  {    
-    "chef_picture": "https://i.ibb.co/C1SqSmk/happy-young-cook-uniform-showing-thumbs-up.jpg",    
+  { 
+    "id": 1,     
+    "chef_picture": "https://i.ibb.co/PYV1xCt/chef-man-2.png",    
     "chef_name": "Anwar Hussain",    
     "years_of_experience": 15,    
     "number_of_recipes": 80,    
-    "likes": 25000  
+    "likes": 25000,
+    "short_bio": "Anwar Hussain is a renowned chef known for his expertise in traditional Bengali cuisine. With over 15 years of experience, he has perfected the art of creating delectable dishes that are loved by all."  
   },  
-  {    
-    "chef_picture": "https://i.ibb.co/qnP1NrC/portrait-confident-male-chef-kitchen.jpg",    
+  { 
+    "id": 2,    
+    "chef_picture": "https://i.ibb.co/GMxp17V/chef-man-3.png",    
     "chef_name": "Ishmam Hussain",    
     "years_of_experience": 20,    
     "number_of_recipes": 120,    
-    "likes": 50000  
+    "likes": 50000,
+    "short_bio": "Ishmam Hussain is a veteran chef with over 20 years of experience in the culinary arts. He is well-known for his fusion dishes that combine traditional and modern cooking techniques."  
   },  
-  {    
-    "chef_picture": "https://i.ibb.co/8b1Bckd/portrait-smiling-chef-uniform.jpg",    
+  { 
+    "id": 3,    
+    "chef_picture": "https://i.ibb.co/myf5cP5/chef-man-4.png",    
     "chef_name": "Zakir Khan",    
     "years_of_experience": 10,    
     "number_of_recipes": 60,    
-    "likes": 15000  
+    "likes": 15000,
+    "short_bio": "Zakir Khan is a young and talented chef who has made a name for himself in the culinary world. With a passion for experimenting with new ingredients and flavors, he creates unique and innovative dishes that are sure to impress."  
   },  
-  {    
-    "chef_picture": "https://i.ibb.co/tb76hy0/young-pleased-afro-american-cook-chef-uniform-crosses-arms-points-side-isolated-orange-wall.jpg",    
+  { 
+    "id": 4,    
+    "chef_picture": "https://i.ibb.co/f9ks5xj/chef-man-1.png",    
     "chef_name": "Zian Khan",    
     "years_of_experience": 8,    
     "number_of_recipes": 40,    
-    "likes": 10000  
+    "likes": 10000,
+    "short_bio": "Zian Khan is a rising star in the world of cooking. Despite his relatively short career, he has already made a name for himself with his simple yet delicious recipes that are loved by all."  
   },  
-  {    
-    "chef_picture": "https://i.ibb.co/LptnwF0/front-view-smiley-woman-posing-indoors.jpg",    
+  { 
+    "id": 5,    
+    "chef_picture": "https://i.ibb.co/YbBp5Kd/chef-lady-1.png",    
     "chef_name": "Tasnim Jara",    
     "years_of_experience": 18,    
     "number_of_recipes": 90,    
-    "likes": 35000  
+    "likes": 35000,
+    "short_bio": "Tasnim Jara is a seasoned chef with over 18 years of experience in the kitchen. Her specialty is creating mouth-watering desserts that are both beautiful and delicious."  
   },  
-  {    
-    "chef_picture": "https://i.ibb.co/LgSnp7r/front-view-young-male-cook-white-cook-suit-white-head-cap-standing.jpg",    
+  { 
+    "id": 6,    
+    "chef_picture": "https://i.ibb.co/FK516hX/chef-man-5.png",    
     "chef_name": "Mahbub Ahmed",    
     "years_of_experience": 12,    
     "number_of_recipes": 70,    
-    "likes": 20000  
+    "likes": 20000,
+    "short_bio": "Mahbub Ahmed is a talented chef with a passion for healthy and nutritious food. His recipes are not only delicious but also focus on using fresh and wholesome ingredients."  
   }
 ]
+
