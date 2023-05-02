@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1,
+    "recipes": [
+      {
+        "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+        "recipe_image": "https://i.ibb.co/4ZR7G51/Shorshe-Ilish.jpg",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt",
+          "Mustard oil",
+          "Sugar"
+        ],
+        "cooking_method": "Marinate Hilsa fish in a mixture of mustard seeds, turmeric powder, salt, and green chilies. Fry the fish in mustard oil until it is cooked. In the same oil, add mustard seeds and green chilies, then add water and sugar to make a sauce. Add the fried fish to the sauce and cook for a few minutes.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chingri Malai Curry (Prawn Coconut Curry)",
+        "recipe_image": "https://i.ibb.co/WynqZFS/Chingri-Malai-Curry.jpg",
+        "ingredients": [
+          "Prawns",
+          "Coconut milk",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add prawns and cook until they turn pink. Add coconut milk and cook until the sauce thickens.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Bengali Fish Curry",
+        "recipe_image": "https://i.ibb.co/Jdh7r5F/Bengali-Fish-Curry.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add chopped tomatoes and cook until they become soft. Add fish, salt, and enough water to cover the fish. Cook until the fish is done.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Kosha Mangsho (Spicy Mutton Curry)",
+        "recipe_image": "https://i.ibb.co/DCL5gVz/Kosha-Mangsho.jpg",
+        "ingredients": [
+          "Mutton",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Tomato",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Marinate mutton in yogurt, turmeric powder, and salt. Cook onions, garlic, and ginger in oil until brown. Add turmeric powder, green chilies, and chopped tomatoes, then add the marinated mutton. Cook until the mutton is",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Aloo Posto",
+        "recipe_image": "https://i.ibb.co/Q8N20Zb/Aloo-Posto.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Poppy seeds",
+          "Mustard oil",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt"
+        ],
+        "cooking_method": "Boil the potatoes and cut them into cubes. Grind poppy seeds and green chilies into a paste. Heat mustard oil in a pan and add the paste. Add turmeric powder and salt to the pan and cook for a few minutes. Add the potatoes to the pan and mix well. Serve hot with steamed rice.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Bhapa Doi",
+        "recipe_image": "https://i.ibb.co/8xqrhPq/Bhapa-Doi.jpg",
+        "ingredients": [
+          "Sweetened condensed milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Rose water"
+        ],
+        "cooking_method": "Mix sweetened condensed milk, yogurt, sugar, cardamom, and rose water in a bowl. Pour the mixture into a baking dish and cover with foil. Steam the dish for about an hour. Let it cool and serve chilled.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "recipes": [
+      {
+        "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+        "recipe_image": "https://i.ibb.co/4ZR7G51/Shorshe-Ilish.jpg",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt",
+          "Mustard oil",
+          "Sugar"
+        ],
+        "cooking_method": "Marinate Hilsa fish in a mixture of mustard seeds, turmeric powder, salt, and green chilies. Fry the fish in mustard oil until it is cooked. In the same oil, add mustard seeds and green chilies, then add water and sugar to make a sauce. Add the fried fish to the sauce and cook for a few minutes.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chingri Malai Curry (Prawn Coconut Curry)",
+        "recipe_image": "https://i.ibb.co/WynqZFS/Chingri-Malai-Curry.jpg",
+        "ingredients": [
+          "Prawns",
+          "Coconut milk",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add prawns and cook until they turn pink. Add coconut milk and cook until the sauce thickens.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Bengali Fish Curry",
+        "recipe_image": "https://i.ibb.co/Jdh7r5F/Bengali-Fish-Curry.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add chopped tomatoes and cook until they become soft. Add fish, salt, and enough water to cover the fish. Cook until the fish is done.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Kosha Mangsho (Spicy Mutton Curry)",
+        "recipe_image": "https://i.ibb.co/DCL5gVz/Kosha-Mangsho.jpg",
+        "ingredients": [
+          "Mutton",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Tomato",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Marinate mutton in yogurt, turmeric powder, and salt. Cook onions, garlic, and ginger in oil until brown. Add turmeric powder, green chilies, and chopped tomatoes, then add the marinated mutton. Cook until the mutton is",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Aloo Posto",
+        "recipe_image": "https://i.ibb.co/Q8N20Zb/Aloo-Posto.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Poppy seeds",
+          "Mustard oil",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt"
+        ],
+        "cooking_method": "Boil the potatoes and cut them into cubes. Grind poppy seeds and green chilies into a paste. Heat mustard oil in a pan and add the paste. Add turmeric powder and salt to the pan and cook for a few minutes. Add the potatoes to the pan and mix well. Serve hot with steamed rice.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Bhapa Doi",
+        "recipe_image": "https://i.ibb.co/8xqrhPq/Bhapa-Doi.jpg",
+        "ingredients": [
+          "Sweetened condensed milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Rose water"
+        ],
+        "cooking_method": "Mix sweetened condensed milk, yogurt, sugar, cardamom, and rose water in a bowl. Pour the mixture into a baking dish and cover with foil. Steam the dish for about an hour. Let it cool and serve chilled.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "recipes": [
+      {
+        "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+        "recipe_image": "https://i.ibb.co/4ZR7G51/Shorshe-Ilish.jpg",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt",
+          "Mustard oil",
+          "Sugar"
+        ],
+        "cooking_method": "Marinate Hilsa fish in a mixture of mustard seeds, turmeric powder, salt, and green chilies. Fry the fish in mustard oil until it is cooked. In the same oil, add mustard seeds and green chilies, then add water and sugar to make a sauce. Add the fried fish to the sauce and cook for a few minutes.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chingri Malai Curry (Prawn Coconut Curry)",
+        "recipe_image": "https://i.ibb.co/WynqZFS/Chingri-Malai-Curry.jpg",
+        "ingredients": [
+          "Prawns",
+          "Coconut milk",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add prawns and cook until they turn pink. Add coconut milk and cook until the sauce thickens.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Bengali Fish Curry",
+        "recipe_image": "https://i.ibb.co/Jdh7r5F/Bengali-Fish-Curry.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add chopped tomatoes and cook until they become soft. Add fish, salt, and enough water to cover the fish. Cook until the fish is done.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Kosha Mangsho (Spicy Mutton Curry)",
+        "recipe_image": "https://i.ibb.co/DCL5gVz/Kosha-Mangsho.jpg",
+        "ingredients": [
+          "Mutton",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Tomato",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Marinate mutton in yogurt, turmeric powder, and salt. Cook onions, garlic, and ginger in oil until brown. Add turmeric powder, green chilies, and chopped tomatoes, then add the marinated mutton. Cook until the mutton is",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Aloo Posto",
+        "recipe_image": "https://i.ibb.co/Q8N20Zb/Aloo-Posto.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Poppy seeds",
+          "Mustard oil",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt"
+        ],
+        "cooking_method": "Boil the potatoes and cut them into cubes. Grind poppy seeds and green chilies into a paste. Heat mustard oil in a pan and add the paste. Add turmeric powder and salt to the pan and cook for a few minutes. Add the potatoes to the pan and mix well. Serve hot with steamed rice.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Bhapa Doi",
+        "recipe_image": "https://i.ibb.co/8xqrhPq/Bhapa-Doi.jpg",
+        "ingredients": [
+          "Sweetened condensed milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Rose water"
+        ],
+        "cooking_method": "Mix sweetened condensed milk, yogurt, sugar, cardamom, and rose water in a bowl. Pour the mixture into a baking dish and cover with foil. Steam the dish for about an hour. Let it cool and serve chilled.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "recipes": [
+      {
+        "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+        "recipe_image": "https://i.ibb.co/4ZR7G51/Shorshe-Ilish.jpg",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt",
+          "Mustard oil",
+          "Sugar"
+        ],
+        "cooking_method": "Marinate Hilsa fish in a mixture of mustard seeds, turmeric powder, salt, and green chilies. Fry the fish in mustard oil until it is cooked. In the same oil, add mustard seeds and green chilies, then add water and sugar to make a sauce. Add the fried fish to the sauce and cook for a few minutes.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chingri Malai Curry (Prawn Coconut Curry)",
+        "recipe_image": "https://i.ibb.co/WynqZFS/Chingri-Malai-Curry.jpg",
+        "ingredients": [
+          "Prawns",
+          "Coconut milk",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add prawns and cook until they turn pink. Add coconut milk and cook until the sauce thickens.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Bengali Fish Curry",
+        "recipe_image": "https://i.ibb.co/Jdh7r5F/Bengali-Fish-Curry.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add chopped tomatoes and cook until they become soft. Add fish, salt, and enough water to cover the fish. Cook until the fish is done.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Kosha Mangsho (Spicy Mutton Curry)",
+        "recipe_image": "https://i.ibb.co/DCL5gVz/Kosha-Mangsho.jpg",
+        "ingredients": [
+          "Mutton",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Tomato",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Marinate mutton in yogurt, turmeric powder, and salt. Cook onions, garlic, and ginger in oil until brown. Add turmeric powder, green chilies, and chopped tomatoes, then add the marinated mutton. Cook until the mutton is",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Aloo Posto",
+        "recipe_image": "https://i.ibb.co/Q8N20Zb/Aloo-Posto.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Poppy seeds",
+          "Mustard oil",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt"
+        ],
+        "cooking_method": "Boil the potatoes and cut them into cubes. Grind poppy seeds and green chilies into a paste. Heat mustard oil in a pan and add the paste. Add turmeric powder and salt to the pan and cook for a few minutes. Add the potatoes to the pan and mix well. Serve hot with steamed rice.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Bhapa Doi",
+        "recipe_image": "https://i.ibb.co/8xqrhPq/Bhapa-Doi.jpg",
+        "ingredients": [
+          "Sweetened condensed milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Rose water"
+        ],
+        "cooking_method": "Mix sweetened condensed milk, yogurt, sugar, cardamom, and rose water in a bowl. Pour the mixture into a baking dish and cover with foil. Steam the dish for about an hour. Let it cool and serve chilled.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "recipes": [
+      {
+        "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+        "recipe_image": "https://i.ibb.co/4ZR7G51/Shorshe-Ilish.jpg",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt",
+          "Mustard oil",
+          "Sugar"
+        ],
+        "cooking_method": "Marinate Hilsa fish in a mixture of mustard seeds, turmeric powder, salt, and green chilies. Fry the fish in mustard oil until it is cooked. In the same oil, add mustard seeds and green chilies, then add water and sugar to make a sauce. Add the fried fish to the sauce and cook for a few minutes.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chingri Malai Curry (Prawn Coconut Curry)",
+        "recipe_image": "https://i.ibb.co/WynqZFS/Chingri-Malai-Curry.jpg",
+        "ingredients": [
+          "Prawns",
+          "Coconut milk",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add prawns and cook until they turn pink. Add coconut milk and cook until the sauce thickens.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Bengali Fish Curry",
+        "recipe_image": "https://i.ibb.co/Jdh7r5F/Bengali-Fish-Curry.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add chopped tomatoes and cook until they become soft. Add fish, salt, and enough water to cover the fish. Cook until the fish is done.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Kosha Mangsho (Spicy Mutton Curry)",
+        "recipe_image": "https://i.ibb.co/DCL5gVz/Kosha-Mangsho.jpg",
+        "ingredients": [
+          "Mutton",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Tomato",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Marinate mutton in yogurt, turmeric powder, and salt. Cook onions, garlic, and ginger in oil until brown. Add turmeric powder, green chilies, and chopped tomatoes, then add the marinated mutton. Cook until the mutton is",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Aloo Posto",
+        "recipe_image": "https://i.ibb.co/Q8N20Zb/Aloo-Posto.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Poppy seeds",
+          "Mustard oil",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt"
+        ],
+        "cooking_method": "Boil the potatoes and cut them into cubes. Grind poppy seeds and green chilies into a paste. Heat mustard oil in a pan and add the paste. Add turmeric powder and salt to the pan and cook for a few minutes. Add the potatoes to the pan and mix well. Serve hot with steamed rice.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Bhapa Doi",
+        "recipe_image": "https://i.ibb.co/8xqrhPq/Bhapa-Doi.jpg",
+        "ingredients": [
+          "Sweetened condensed milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Rose water"
+        ],
+        "cooking_method": "Mix sweetened condensed milk, yogurt, sugar, cardamom, and rose water in a bowl. Pour the mixture into a baking dish and cover with foil. Steam the dish for about an hour. Let it cool and serve chilled.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "recipes": [
+      {
+        "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+        "recipe_image": "https://i.ibb.co/4ZR7G51/Shorshe-Ilish.jpg",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard seeds",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt",
+          "Mustard oil",
+          "Sugar"
+        ],
+        "cooking_method": "Marinate Hilsa fish in a mixture of mustard seeds, turmeric powder, salt, and green chilies. Fry the fish in mustard oil until it is cooked. In the same oil, add mustard seeds and green chilies, then add water and sugar to make a sauce. Add the fried fish to the sauce and cook for a few minutes.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Chingri Malai Curry (Prawn Coconut Curry)",
+        "recipe_image": "https://i.ibb.co/WynqZFS/Chingri-Malai-Curry.jpg",
+        "ingredients": [
+          "Prawns",
+          "Coconut milk",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add prawns and cook until they turn pink. Add coconut milk and cook until the sauce thickens.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Bengali Fish Curry",
+        "recipe_image": "https://i.ibb.co/Jdh7r5F/Bengali-Fish-Curry.jpg",
+        "ingredients": [
+          "Fish",
+          "Onion",
+          "Tomato",
+          "Ginger",
+          "Garlic",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Cook onions, garlic, and ginger in oil until brown. Add turmeric powder and green chilies, then add chopped tomatoes and cook until they become soft. Add fish, salt, and enough water to cover the fish. Cook until the fish is done.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Kosha Mangsho (Spicy Mutton Curry)",
+        "recipe_image": "https://i.ibb.co/DCL5gVz/Kosha-Mangsho.jpg",
+        "ingredients": [
+          "Mutton",
+          "Onion",
+          "Garlic",
+          "Ginger",
+          "Tomato",
+          "Green chilies",
+          "Turmeric powder"
+        ],
+        "cooking_method": "Marinate mutton in yogurt, turmeric powder, and salt. Cook onions, garlic, and ginger in oil until brown. Add turmeric powder, green chilies, and chopped tomatoes, then add the marinated mutton. Cook until the mutton is",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Aloo Posto",
+        "recipe_image": "https://i.ibb.co/Q8N20Zb/Aloo-Posto.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Poppy seeds",
+          "Mustard oil",
+          "Green chilies",
+          "Turmeric powder",
+          "Salt"
+        ],
+        "cooking_method": "Boil the potatoes and cut them into cubes. Grind poppy seeds and green chilies into a paste. Heat mustard oil in a pan and add the paste. Add turmeric powder and salt to the pan and cook for a few minutes. Add the potatoes to the pan and mix well. Serve hot with steamed rice.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Bhapa Doi",
+        "recipe_image": "https://i.ibb.co/8xqrhPq/Bhapa-Doi.jpg",
+        "ingredients": [
+          "Sweetened condensed milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Rose water"
+        ],
+        "cooking_method": "Mix sweetened condensed milk, yogurt, sugar, cardamom, and rose water in a bowl. Pour the mixture into a baking dish and cover with foil. Steam the dish for about an hour. Let it cool and serve chilled.",
+        "rating": 4.8
+      }
+    ]
+  }
+]
